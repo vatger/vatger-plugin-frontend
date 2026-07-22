@@ -1,0 +1,15 @@
+# build artifacts
+**/.nyc_output/
+**/.output/
+**/build/
+**/dist/
+**/out/
+
+# dependencies
+
+**/.npm/
+**/.pnpm/
+**/.pnpm-store/
+**/.yarn/
+**/bower_components/
+**/node_modules/
